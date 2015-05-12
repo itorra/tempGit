@@ -7,7 +7,7 @@ public class newClass {
 
         System.out.print("asdf");
     int a =39;
-        System.out.print(a);
+        System.out.print(a);;
     }
 
 }
